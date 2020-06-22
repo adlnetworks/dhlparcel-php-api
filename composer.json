@@ -1,5 +1,5 @@
 {
-    "name": "mvdnbrk/dhlparcel-php-api",
+    "name": "adlnetworks/dhlparcel-php-api",
     "description": "DHL Parcel API client for PHP",
     "keywords": [
         "dhl",
